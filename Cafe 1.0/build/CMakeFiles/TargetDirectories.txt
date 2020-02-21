@@ -1,0 +1,3 @@
+C:/Users/jabba/Desktop/Programs/C++ II/Cafe 1.0/build/CMakeFiles/demo.dir
+C:/Users/jabba/Desktop/Programs/C++ II/Cafe 1.0/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/jabba/Desktop/Programs/C++ II/Cafe 1.0/build/CMakeFiles/ZERO_CHECK.dir
